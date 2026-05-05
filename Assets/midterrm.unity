@@ -2856,7 +2856,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5781965255119859987, guid: fd29193f7f3c6e4439dd907ed9692276, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 95
+      value: 164
       objectReference: {fileID: 0}
     - target: {fileID: 5781965255119859987, guid: fd29193f7f3c6e4439dd907ed9692276, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2864,7 +2864,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5781965255119859987, guid: fd29193f7f3c6e4439dd907ed9692276, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 488.2
+      value: 825.4
       objectReference: {fileID: 0}
     - target: {fileID: 5781965255119859987, guid: fd29193f7f3c6e4439dd907ed9692276, type: 3}
       propertyPath: m_LocalRotation.w
@@ -7609,6 +7609,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 198000011252715808, guid: 02a509a7fa70ed740ba4197e20c5d32d, type: 3}
+      propertyPath: looping
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 199000012379554556, guid: 02a509a7fa70ed740ba4197e20c5d32d, type: 3}
       propertyPath: m_Materials.Array.size
       value: 1
@@ -8752,11 +8756,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5781965255119859987, guid: fd29193f7f3c6e4439dd907ed9692276, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -45
+      value: -73.5
       objectReference: {fileID: 0}
     - target: {fileID: 5781965255119859987, guid: fd29193f7f3c6e4439dd907ed9692276, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 210.2
+      value: 935.3
       objectReference: {fileID: 0}
     - target: {fileID: 5781965255119859987, guid: fd29193f7f3c6e4439dd907ed9692276, type: 3}
       propertyPath: m_LocalRotation.w
@@ -11229,6 +11233,10 @@ PrefabInstance:
     - target: {fileID: 918335901011771881, guid: 1c9a64f069774a74bb9fe9da8eedad0a, type: 3}
       propertyPath: m_Name
       value: Particle System
+      objectReference: {fileID: 0}
+    - target: {fileID: 1535768269311748752, guid: 1c9a64f069774a74bb9fe9da8eedad0a, type: 3}
+      propertyPath: NoiseModule.enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1670143802053738138, guid: 1c9a64f069774a74bb9fe9da8eedad0a, type: 3}
       propertyPath: m_LocalPosition.x
